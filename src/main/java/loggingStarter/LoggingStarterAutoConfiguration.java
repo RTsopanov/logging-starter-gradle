@@ -1,4 +1,4 @@
-package hw3;
+package loggingStarter;
 
 public class LoggingStarterAutoConfiguration {
     public static void println(String str){
