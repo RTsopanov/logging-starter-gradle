@@ -1,4 +1,4 @@
-package loggingStarter;
+package loggingstarter;
 
 public class LoggingStarterAutoConfiguration {
     public static void println(String str){
